@@ -2,8 +2,6 @@
 main:
   - title: "Blog"
     url: https://blog.nabutovskis.com/Blog
-   - title: "About Me"
-     url: https://nabutovskis.com
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
