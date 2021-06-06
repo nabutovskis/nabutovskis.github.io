@@ -1,7 +1,7 @@
 ---
 title:  "Blog"
 layout: archive
-permalink: https://blog.nabutovskis.com/Blog/
+permalink: http://blog.nabutovskis.com/Blog/
 author_profile: true
 comments: true
 {% for post in site.posts %}
