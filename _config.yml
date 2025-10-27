@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Davis Nabutovskis"
-  avatar           : "/assets/images/Davis_Nabutovskis.png"
+  avatar           : # Done
   bio              : "//"
   location         : "Somewhere"
   email            :
