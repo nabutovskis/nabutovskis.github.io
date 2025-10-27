@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "My first post"
+title:  "https://nabutovskis.com"
 date:   2021-06-06
 ---
-Hello World
+https://nabutovskis.com
