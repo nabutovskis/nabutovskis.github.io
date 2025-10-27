@@ -20,7 +20,7 @@ title                    : "Nabutovskis Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Davis Nabutovskis"
-description              : "//"
+description              : "Building the Future of E-Commerce."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
